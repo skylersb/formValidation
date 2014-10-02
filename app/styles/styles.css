@@ -117,10 +117,14 @@ body {
 
 	}
 
+.login-signup-menu ul {
+	margin: 5px;
+	}
+
 		.login-signup-menu li {
 			display: inline;
-			margin-left: 5px;
-			margin-right: 5px;
+			margin: 0 5px 0 5px;
+			
 			cursor: pointer;
 		}
 
